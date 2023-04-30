@@ -1,0 +1,77 @@
+.imgFondo {
+   background-image: url("../assets/img/hawaii.jpg");
+   background-position: center;
+   background-size: cover;
+   height: 80vh;
+   background-color: rgb(66, 63, 63);
+   background-blend-mode: soft-light;
+   margin-top: 5em;
+}
+
+.enviar{
+	//background-color: rgb(117, 187, 51) !important;
+	background-color: rgba(150,201,62,255) !important;
+	border-radius: 5px;
+	height:50px;
+	color: white;
+	border: none;
+	font-size: 1.1em
+}
+
+
+.recuerda{
+	font-size: 10px
+}
+
+.card-text{
+	font-size: 10px
+}
+
+.btn-warning {
+	font-weight: bold;
+}
+
+.btn-primary{
+	font-weight: bold;
+	background-color: rgba(23,162,183,255);
+	color: white;
+}
+
+.btn-secondary {
+	font-weight: bold
+}
+
+.btn-danger {
+	font-weight: bold
+}
+
+.conoce{
+	font-size: 9px !important;
+}
+
+.tickets{
+	font-weight: bold;
+	background-color: rgba(41,167,68,255) !important;
+	color: white;
+}
+
+.navbar-brand{
+	background-color: rgba(53,58,64,255)) !important;
+}
+
+.navbar-item{
+	font-size: 11px
+}
+
+
+.Octubre{
+	width: 100% !important;
+	//background-color: rgba(53,58,64,255) !important;
+}
+
+.footer{
+	width: 100% !important;
+	//background-color: rgb(14, 64, 71) !important;
+	background-color: rgba(31,82,113,255) !important;
+	background: linear-gradient(to right,rgba(27,55,68,255), rgba(31,82,113,255)) !important;
+}
