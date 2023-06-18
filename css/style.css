@@ -18,6 +18,24 @@
 	font-size: 1.1em
 }
 
+.btn-borrar-resumen{
+	//background-color: rgb(117, 187, 51) !important;
+	background-color: rgba(150,201,62,255) !important;
+	border-radius: 5px;
+	height:50px;
+	color: white;
+	border: none;
+	font-size: 1.1em;
+	
+}
+
+.tarj-categ{
+	border-color: yellow
+}
+
+.text-success{
+//	color: rgb(125, 201, 62)
+}
 
 .recuerda{
 	font-size: 10px
@@ -57,17 +75,44 @@
 
 .navbar-brand{
 	background-color: rgba(53,58,64,255)) !important;
+	color: white;
 }
 
 .navbar-item{
 	font-size: 11px
 }
 
+.muestra-total{
+	background-color: rgb(204, 229, 255);
+	text-align: left
+}
 
 .Octubre{
 	width: 100% !important;
 	//background-color: rgba(53,58,64,255) !important;
 }
+
+.btn2 {
+    background-color: #96c93e;
+    color: white;
+    font-size: 0.8rem;
+	border-radius: 5px;
+	border: none;
+	height:40px;
+}
+
+.btn-borrar::before {
+    margin-right: 5px;
+}
+
+.btn-resumen::before {
+    margin-right: 5px;
+}
+
+.botonera {
+    margin-bottom: 30px;
+}
+
 
 .footer{
 	width: 100% !important;
